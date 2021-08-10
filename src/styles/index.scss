@@ -1,0 +1,14 @@
+@import "addTodo";
+@import "todoList";
+
+body {
+  font-family: sans-serif;
+}
+
+.App {
+  width: 100%;
+  flex-flow: column wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
